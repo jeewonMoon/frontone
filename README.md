@@ -1,2 +1,2 @@
 #presentation
-frontone에서git 특 
+frontone에서 git 특강
